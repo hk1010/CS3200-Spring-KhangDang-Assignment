@@ -1,0 +1,6 @@
+echo "Describe the app" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jannunzi/cs1234-sp19-...-jannunzi.git
+git push -u origin master
